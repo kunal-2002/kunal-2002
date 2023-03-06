@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kathpalkunal" target="blank"><img src="https://img.shields.io/twitter/follow/kathpalkunal?logo=twitter&style=for-the-badge" alt="kathpalkunal" /></a> </p>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/HMS)
+- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system)
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**
 
