@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**
 
-- 👯 I accepted [100 Days of code challenge](https://github.com/kunal-2002/100-days-of-code)
+- 👯 I am on [100 Days of code challenge](https://github.com/kunal-2002/100-days-of-code)
 
 - 👨‍💻 All of my projects are available at [https://kunal-kathpal.netlify.app/](https://kunal-kathpal.netlify.app/)
 
