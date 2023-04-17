@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/kathpalkunal" target="blank"><img src="https://img.shields.io/twitter/follow/kathpalkunal?logo=twitter&style=for-the-badge" alt="kathpalkunal" /></a> </p>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system)
+- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system).
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**.
 
-- 👯 I am on [100 Days of code challenge](https://github.com/kunal-2002/100-days-of-code)
+- 👯 I am on [100 Days of code challenge](https://github.com/kunal-2002/100-days-of-code).
 
-- 👨‍💻 All of my projects are available at [https://kunal-kathpal.netlify.app/](https://kunal-kathpal.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kunal-kathpal.netlify.app/](https://kunal-kathpal.netlify.app/).
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, React, Bootstrap, PHP, MySQL, C/C++, DSA, MERN**
+- 💬 Ask me about **HTML5, CSS3, Javascript, React, Bootstrap, PHP, MySQL, C/C++, DSA, MERN**.
 
-- 📫 How to reach me **kkunal2103@outlook.com**
+- 📫 How to reach me **kkunal2103@outlook.com**.
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FUnsDqyikq4IoZXHkCuIrMi4FFo1Nzoc/view?usp=sharing">here</a>.
 
