@@ -1,21 +1,21 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://kunal-kathpal.netlify.app)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://kunal-kathpal.netlify.app)
 <h1 align="center">Hi 👋, I'm Kunal Kathpal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=4600&pause=900&center=true&vCenter=true&width=435&separator=%3C&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%F0%9F%99%8F%3CFull+stack+developer+from+India%3CMERN+Stack+Developer%3CComputer+Science+Student%3CActive+learner+%2F+Researcher%3CLove+to+learn+new+stuff...;-)%3CPracticing+AI+%2F+ML+" alt="Typing SVG" /></a>
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-2002&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-2002" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/kathpalkunal" target="blank"><img src="https://img.shields.io/twitter/follow/kathpalkunal?logo=twitter&style=for-the-badge" alt="kathpalkunal" /></a> </p>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system).
+<!--- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system).-->
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**.
 
-- 👯 I am on [100 Days of code challenge](https://github.com/kunal-2002/100-days-of-code).
-
-- 👨‍💻 All of my projects are available at [https://kunal-kathpal.netlify.app/](https://kunal-kathpal.netlify.app/).
+- 👨‍💻 All of my projects are available at [www.kunalkathpal.me](https://kunalkathpal.me).
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, React, Bootstrap, PHP, MySQL, C/C++, DSA, MERN**.
 
@@ -38,8 +38,8 @@
 
 <HR>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-2002&show_icons=true&locale=en&layout=compact" alt="kunal-2002" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-2002&show_icons=true&locale=en&layout=compact" alt="kunal-2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-2002&show_icons=true&locale=en" alt="kunal-2002" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-2002&show_icons=true&locale=en" alt="kunal-2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-2002&" alt="kunal-2002" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-2002&" alt="kunal-2002" /></p>
