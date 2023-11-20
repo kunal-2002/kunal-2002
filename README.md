@@ -43,3 +43,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-2002&show_icons=true&locale=en" alt="kunal-2002" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-2002&" alt="kunal-2002" /></p>
+
+[![kunal-2002's GitHub | Stats](https://stats.quine.sh/kunal-2002/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=kunal-2002)
+
+[![kunal-2002's GitHub | Dependencies](https://stats.quine.sh/kunal-2002/dependencies?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=kunal-2002)
+
+[![kunal-2002's GitHub | Topics Over Time](https://stats.quine.sh/kunal-2002/topics-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=kunal-2002)
+
+[![kunal-2002's GitHub | Languages Over Time](https://stats.quine.sh/kunal-2002/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=kunal-2002)
