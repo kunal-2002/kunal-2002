@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB, React Native**.
 
-- 👨‍💻 All of my projects are available at [www.kunalkathpal.me](https://kunalkathpal.me).
+- 👨‍💻 All of my projects are available at [www.kunal-kathpal.netlify.app](https://kunal-kathpal.netlify.app/).
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, React, Bootstrap, PHP, MySQL, C/C++, DSA, MERN**.
 
